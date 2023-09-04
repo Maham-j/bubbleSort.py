@@ -42,11 +42,15 @@ This Bubble Sort and Swaps script is provided under the MIT License. See the LIC
 
 # 📞 Contact:
 
-
 If you have any questions or suggestions about the script, feel free to reach out on GitHub or LinkedIn:
 
-GitHub: [https://github.com/Maham-j]
+Discover more exciting coding projects on our [GitHub repository](https://github.com/Maham-j).
 
-LinkedIn: [https://www.linkedin.com/in/maham-jamil-268584267]
+Connect with the developer, Maham Jamil, on [LinkedIn](https://www.linkedin.com/in/maham-jamil-268584267).
+
+Connect with the developer, Maham Jamil, on [HackerRank](https://www.hackerrank.com/maham_jamil)
 
 # Sort arrays and count swaps with bubble sort! 🔄🔢🔀
+
+If you find this script helpful, show your support by giving it a ⭐️!
+
